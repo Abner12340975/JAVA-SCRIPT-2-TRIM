@@ -20,6 +20,7 @@ function draw(){
     //chamando a função
     criaBolinha(xBolinha, yBolinha, tamBolinha);
     //chamando a função cria bolinha para criar a bolinha
+    moveBolinha();
 }
 
 //função bolinha
